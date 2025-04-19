@@ -1,1 +1,3 @@
+Welcome to my Repository : my Goal is to teach python to Govt funded school that too over Mobile ... 
+
 This python series is created for college student and school student from 9th to 12th 
